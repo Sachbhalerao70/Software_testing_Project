@@ -3,3 +3,7 @@ This Repository contains a list of all the projects completed by my self .This p
 
 Project List
 
+|  Project Name       |  Description     | Tool Used     |
+| -----------------   |:---------------:| ------------:|
+| Validating Title    | tested web application to validate title   | Selenium,Java|
+|Validating username and pass| tested web application to validate username and password | Selenium,java ,TestNG|
