@@ -1,2 +1,5 @@
 # Software_testing_Project
-This is repo is collection of all my project realted to software testing 
+This Repository contains a list of all the projects completed by my self .This projects were completed using a combination of mannual tesing techniques and test management tool
+
+Project List
+
